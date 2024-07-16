@@ -45,15 +45,15 @@
 <hr>
 <div style="text-align: justify;">
   <b>Project 2: Low-Cost AI-Based Water Turbidity Monitoring System for Water Treatment Decision-Making</b><br>
- I developed a low-cost AI-based water turbidity reading application for decision-making in water treatment processes. This application has been used to monitor the water treatment system at JASAMARGA.<br>
+  I developed a low-cost AI-based water turbidity reading application for decision-making in water treatment processes. This application has been used to monitor the water treatment system at JASAMARGA.<br>
 </div>
-
 <p align="center">
-  <img src="https://github.com/rammahayufitra/portofolio/blob/main/assets/Turbidity_0.jpeg" alt="Deskripsi Gambar" width="500" height="auto">
-  <img src="https://github.com/rammahayufitra/portofolio/blob/main/assets/turbidity_1.jpeg" alt="Deskripsi Gambar" width="500" height="auto">
-  <img src="https://github.com/rammahayufitra/portofolio/blob/main/assets/turbidity_2.jpeg" alt="Deskripsi Gambar" width="500" height="auto">
-  <img src="https://github.com/rammahayufitra/portofolio/blob/main/assets/turbidity_2.jpeg" alt="Deskripsi Gambar" width="500" height="auto">
+  <img src="https://github.com/rammahayufitra/portofolio/blob/main/assets/Turbidity_0.jpeg" alt="Deskripsi Gambar" width="300" style="margin: 10px;">
+  <img src="https://github.com/rammahayufitra/portofolio/blob/main/assets/turbidity_1.jpeg" alt="Deskripsi Gambar" width="300" style="margin: 10px;">
+  <img src="https://github.com/rammahayufitra/portofolio/blob/main/assets/turbidity_2.jpeg" alt="Deskripsi Gambar" width="300" style="margin: 10px;">
+  <img src="https://github.com/rammahayufitra/portofolio/blob/main/assets/turbidity_4.gif"  alt="Deskripsi Gambar" width="300" style="margin: 10px;">
 </p>
+
 
 
 
