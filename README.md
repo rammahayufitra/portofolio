@@ -22,6 +22,17 @@
   <b>Project 1: High-Accuracy Vehicle License Plate Recognition for Low-End Devices</b><br>
   I developed a Vehicle License Plate Recognition application. Currently, the application is implemented at Tol <a href="https://hmwtollroadweb.com/profile/sekilas-hmw" target="_blank">Hutama Marga Waskita (HMW)</a>,<a href="https://wika.co.id/id/business/infrastructure-and-building/infrastructure/serang-panimbang-toll-road" target="_blank"> Wijaya Karya Serang - Panimbang (WSP)</a>, 
   <a href="https://www.jmkt.co.id/" target="_blank">Jasa Marga Kualanamu (JMKT)</a>,<a href="https://www.jtd.co.id/" target="_blank">Jakarta TollRoad (JTD)</a> , and <a href="https://www.instagram.com/ppsemarangdemak/?hl=en" target="_blank">PP Semarang Demak (PPSD)</a>. The recognition accuracy reaches 98% for each toll gate. Most proudly, the application can run on low-end devices without a GPU, achieving an FPS of 15 while maintaining high accuracy.
+<table>
+  <tr>
+    <td style="width: 50%; vertical-align: top;">
+      <img src="https://github.com/rammahayufitra/portofolio/blob/main/assets/contoh_dashboard_anpr.png" alt="Deskripsi Gambar" width="500" height="auto">
+    </td>
+    <td style="width: 50%; vertical-align: top;">
+      <img src="https://github.com/rammahayufitra/portofolio/blob/main/assets/contoh_dashboard_anpr.png" alt="Deskripsi Gambar" width="500" height="auto">
+    </td>
+  </tr>
+</table>
 </div>
+
 
  
