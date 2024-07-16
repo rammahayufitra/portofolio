@@ -36,15 +36,13 @@
 </br>
 <div style="text-align: justify;">
   <b>Project 2: AI-based Vehicle Recognition System for Logos, Colors, and License Plates on Low-End Devices</b><br>
-  I developed an AI-based application for recognizing vehicle body colors, vehicle logos, and license plates all within a single low-end system. The application can recognize several vehicle logos including Toyota, Suzuki, Nissan, Mitsubishi, Honda, Daihatsu, Chevrolet, Hyundai, Wuling, and various body colors such as white, black, blue, yellow, silver, and red. The application has been implemented in several locations, including the Kemukus parking area in West Jakarta.
-<table>
-  <tr>
-    <td style="center">
-      <img src="https://github.com/rammahayufitra/portofolio/blob/main/assets/warlop.jpg" alt="Deskripsi Gambar" width="500" height="auto">
-    </td>
-  </tr>
-</table>
+  I developed an AI-based application for recognizing vehicle body colors, vehicle logos, and license plates all within a single low-end system. The application can recognize several vehicle logos including Toyota, Suzuki, Nissan, Mitsubishi, Honda, Daihatsu, Chevrolet, Hyundai, Wuling, and various body colors such as white, black, blue, yellow, silver, and red. The application has been implemented in several locations, including the Kemukus parking area in West Jakarta.<br>
+<img src="https://github.com/rammahayufitra/portofolio/blob/main/assets/warlop.jpg" alt="Deskripsi Gambar" width="500" height="auto">
 </div>
+<!-- <div style="text-align: center;">
+  <img src="https://github.com/rammahayufitra/portofolio/blob/main/assets/warlop.jpg" alt="Deskripsi Gambar" width="500" height="auto">
+</div> -->
+
 
 
  
