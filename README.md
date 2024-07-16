@@ -33,7 +33,7 @@
   </tr>
 </table>
 </div>
-</br>
+<hr>
 <div style="text-align: justify;">
   <b>Project 2: AI-based Vehicle Recognition System for Logos, Colors, and License Plates on Low-End Devices</b><br>
   I developed an AI-based application for recognizing vehicle body colors, vehicle logos, and license plates all within a single low-end system. The application can recognize several vehicle logos including Toyota, Suzuki, Nissan, Mitsubishi, Honda, Daihatsu, Chevrolet, Hyundai, Wuling, and various body colors such as white, black, blue, yellow, silver, and red. The application has been implemented in several locations, including the Kemukus parking area in West Jakarta.<br>
@@ -41,6 +41,18 @@
 
 <p align="center">
   <img src="https://github.com/rammahayufitra/portofolio/blob/main/assets/warlop.jpg" alt="Deskripsi Gambar" width="500" height="auto">
+</p>
+<hr>
+<div style="text-align: justify;">
+  <b>Project 2: Low-Cost AI-Based Water Turbidity Monitoring System for Water Treatment Decision-Making</b><br>
+ I developed a low-cost AI-based water turbidity reading application for decision-making in water treatment processes. This application has been used to monitor the water treatment system at JASAMARGA.<br>
+</div>
+
+<p align="center">
+  <img src="https://github.com/rammahayufitra/portofolio/blob/main/assets/Turbidity_0.jpeg" alt="Deskripsi Gambar" width="500" height="auto">
+  <img src="https://github.com/rammahayufitra/portofolio/blob/main/assets/turbidity_1.jpeg" alt="Deskripsi Gambar" width="500" height="auto">
+  <img src="https://github.com/rammahayufitra/portofolio/blob/main/assets/turbidity_2.jpeg" alt="Deskripsi Gambar" width="500" height="auto">
+  <img src="https://github.com/rammahayufitra/portofolio/blob/main/assets/turbidity_2.jpeg" alt="Deskripsi Gambar" width="500" height="auto">
 </p>
 
 
