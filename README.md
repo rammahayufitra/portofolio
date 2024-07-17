@@ -52,6 +52,7 @@
   <img src="https://github.com/rammahayufitra/portofolio/blob/main/assets/turbidity_2.jpeg" alt="Deskripsi Gambar" width="300" style="margin: 10px;">
   <img src="https://github.com/rammahayufitra/portofolio/blob/main/assets/turbidity_4.gif"  alt="Deskripsi Gambar" width="300" style="margin: 10px;">
 </p>
+<hr>
 <div style="text-align: justify;">
   <b>Project 4: AI-Based Water Meter Reading Application for Monitoring Water Treatment Output</b><br>
   I developed an AI-based water meter reading application to monitor water flow from the water treatment process for both household and industrial scales. Here is a demo of the reading application.<br>
