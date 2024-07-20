@@ -76,6 +76,15 @@
 <p align="center">
   <img src="https://github.com/rammahayufitra/portofolio/blob/main/assets/video_summarization.gif" alt="Deskripsi Gambar" width="300" style="margin: 10px;">
 </p>
+<div style="text-align: justify;">
+  <b>Project 7: Iris Flower Classification on ESP32 with Random Forest</b><br>
+  I am developing an Iris flower classification application using a Random Forest model running on the ESP32. The demo video is shown below..<br>
+</div>
+<p align="center">
+  <img src="https://github.com/rammahayufitra/portofolio/blob/main/assets/ml-esp32.gif" alt="Deskripsi Gambar" width="300" style="margin: 10px;">
+</p>
+
+ 
 
 
 
