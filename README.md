@@ -68,6 +68,15 @@
 <p align="center">
   <img src="https://github.com/rammahayufitra/portofolio/blob/main/assets/money.gif" alt="Deskripsi Gambar" width="300" style="margin: 10px;">
 </p>
+<div style="text-align: justify;">
+  <b>Project 6: AI for Video Translation and Text Summarization</b><br>
+  I developed an AI application in the field of natural language processing. The AI is designed for video translation and text summarization. A demo video can be viewed in the clip below.<br>
+</div>
+<p align="center">
+  <img src="https://github.com/rammahayufitra/portofolio/blob/main/assets/video-summarization.gif" alt="Deskripsi Gambar" width="300" style="margin: 10px;">
+</p>
+
+
 
 
 
