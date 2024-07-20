@@ -61,6 +61,19 @@
   <img src="https://github.com/rammahayufitra/portofolio/blob/main/assets/watermeter.gif" alt="Deskripsi Gambar" width="300" style="margin: 10px;">
 </p>
 <hr>
+<div style="text-align: justify;">
+  <b>Project 4: AI-Based Rupiah Currency Reader for People with Special Needs</b><br>
+  I developed an AI-based application for reading Indonesian Rupiah currency to assist individuals with special needs when shopping in public spaces.<br>
+</div>
+<p align="center">
+  <img src="https://github.com/rammahayufitra/portofolio/blob/main/assets/watermeter.gif" alt="Deskripsi Gambar" width="300" style="margin: 10px;">
+</p>
+
+
+
+
+
+
 
 
 
